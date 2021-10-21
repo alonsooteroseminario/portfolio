@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:5000/",
+  baseURL: "https://portfolio-laos.herokuapp.com/",
 });
 
 export const setAuthorizationToken = (token) => {
@@ -14,4 +14,4 @@ export const setAuthorizationToken = (token) => {
 
 export default api;
 
-export const domainName= "http://localhost:5000/";
+export const domainName= "https://portfolio-laos.herokuapp.com/";
