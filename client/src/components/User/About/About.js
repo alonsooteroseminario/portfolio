@@ -20,7 +20,7 @@ const About = ({ reff }) => {
             <img className="d-block mx-auto mb-4" src={profil} alt="profil" />
           </div>
           <div className="col-lg-8">
-            <p className="text-font text-justify">
+            <p className="grey-text text-justify">
               I'm a Civil Engineer and Full Stack Developer, with experience in 
               Architecture and Construction industry using and implementing BIM standards 
               through Software. <br />
