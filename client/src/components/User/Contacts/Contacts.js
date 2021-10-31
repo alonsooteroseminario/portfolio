@@ -225,7 +225,7 @@ const Contacts = ({ reff }) => {
                 </li>
                 <li>
                   <i className="fa fa-phone fa-lg mt-4 text-primary"></i>
-                  <p>+56 956942823</p>
+                  <p>+1 778 708 2823</p>
                 </li>
                 <li>
                   <i className="fa fa-envelope fa-lg mt-4 text-primary"></i>

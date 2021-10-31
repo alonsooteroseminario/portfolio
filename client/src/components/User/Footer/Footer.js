@@ -72,7 +72,7 @@ const Footer = ({ onLinkClick }) => {
             </h5>
             <p>Vancouver BC, Canada</p>
             <p>alonsooteroseminario@gmail.com</p>
-            <p>+56 956942823</p>
+            <p>+1 778 708 2823</p>
           </div>
         </div>
 
